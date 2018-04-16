@@ -12,3 +12,4 @@
 * Travis CI comme service d'intégration continue
 
 ## Feedback
+* Le projet a le mérite d'avoir une vue d'ensemble de ce que l'on a étudié tout au long de ce semestre. De plus, l'implémentation en elle même avait l'avantage d'être exhaustive sans être trop complexe. Seul petit bémol, l'énoncé était parfois un peu ambigu.
